@@ -22,5 +22,5 @@ usage:
 - genToc.sh (directory of .wav files to be burned.)
 
 ## burning the CD
-for a more in-depth guide on burning a CD, check out my blog post [here](deadlink)
+for a more in-depth guide on burning a CD, check out my blog post [here](https://ethan-cope.github.io/posts/cdrdao/)
 
